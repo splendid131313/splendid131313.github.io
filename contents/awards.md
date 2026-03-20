@@ -1,9 +1,9 @@
 
-- Outstanding Graduate Award (SIT), 2026.
+- Outstanding Graduate Award (Shanghai Institute of Technology), 2026.
 
 - Shanghai Scholarship (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (SIT), 2023 & 2024.
+- First-Prize Scholarship (Shanghai Institute of Technology), 2023 & 2024.
 
 <!-- - Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022. -->
 

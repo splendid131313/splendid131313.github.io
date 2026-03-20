@@ -9,9 +9,9 @@ She is currently a Fellow in the Machine Intelligence & Autonomous Systems Group
 Email: xiaoxuyang13[at]gmail.com
 
 #### Education
-M.E., Control Engineering, Tongji University, 2026- .\
+M.E., Control Engineering, Tongji University, 2026- . \
 B.E., Software Engineering, Shanghai Insitute of Technology, 2022-2026.
 
 #### Research Interests
-Machine Learning; Foundation Model; Camouflaged Object Detection; Medical Image Reconstruction;
+Machine Learning; Foundation Model; Camouflaged Object Detection; Medical Image Reconstruction; Augmented Reality...etc. I still not figure it out.
 
